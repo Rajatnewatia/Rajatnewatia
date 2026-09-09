@@ -13,7 +13,7 @@
 
 <br /> <br />
 
-Building <b>Mocomelon</b> — an omnichannel B2B marketing-automation platform an AI agent can operate end to end — at <a href="https://aiguildpartners.com">AI Guild Partners</a>.
+Building <b>Mocomelon</b> — an omnichannel B2B sales outbound platform an AI agent can operate end to end — at <a href="https://aiguildpartners.com">AI Guild Partners</a>.
 
 Before that: multiplayer game development in <b>Unity / C#</b>. These days it's mostly LLM agents, retrieval and backend systems.
 
